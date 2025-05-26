@@ -2,6 +2,9 @@
 
 An educational tool built entirely in Python using Streamlit that enables users to understand and experiment with core data structures through real-time visual feedback.
 
+![image](https://github.com/user-attachments/assets/8a63e404-4511-470c-865f-b176b0572b5d)
+
+
 ## 🌟 Features
 
 ### 📚 Supported Data Structures
